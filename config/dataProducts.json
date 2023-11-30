@@ -1,0 +1,16 @@
+[
+    {
+        "Name": "Shirts",
+        "description": "all colors",
+        "prize": 200,
+        "category": "wear",
+        "reviews": "good"
+    },
+    {
+        "Name": "Jeans",
+        "description": "all colors",
+        "prize": 900,
+        "category": "wear",
+        "reviews": "good"
+    }
+]
